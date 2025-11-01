@@ -1,8 +1,5 @@
 # ============================================================
 # ReportVisualization.py
-# - Trains simple classifiers (LogReg, KNN) for activity_level
-# - Trains simple regressors (Linear, KNN) for steps_total
-# - Saves ALL plots (PNG) and a metrics CSV summary
 # ============================================================
 
 import os
