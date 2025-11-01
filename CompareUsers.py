@@ -1,5 +1,4 @@
 # ============================================================
-# CompareUsers.py
 # Compare IoT features (Steps, Distance, Sleep) between users
 # ============================================================
 
