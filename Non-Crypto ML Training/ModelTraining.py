@@ -49,10 +49,10 @@ print("\n==================== RESULTS ====================")
 acc_lr  = accuracy_score(y_test, pred_lr)
 acc_knn = accuracy_score(y_test, pred_knn)
 
-print(f"\n🔹 Logistic Regression Accuracy: {acc_lr:.3f}")
+print(f"\n Logistic Regression Accuracy: {acc_lr:.3f}")
 print("Confusion Matrix:\n", confusion_matrix(y_test, pred_lr))
 print("\nClassification Report:\n", classification_report(y_test, pred_lr))
 
-print(f"\n🔹 K-Nearest Neighbors Accuracy: {acc_knn:.3f}")
+print(f"\n K-Nearest Neighbors Accuracy: {acc_knn:.3f}")
 print("Confusion Matrix:\n", confusion_matrix(y_test, pred_knn))
 print("\nClassification Report:\n", classification_report(y_test, pred_knn))

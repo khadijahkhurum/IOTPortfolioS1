@@ -1,0 +1,41 @@
+[
+  {
+    "split": "distance_total_km",
+    "accuracy": 0.9979338842975206,
+    "balanced_accuracy": 0.9963089802130898,
+    "f1_weighted": 0.9979338842975206,
+    "f1_macro": 0.9963089802130898,
+    "mcc": 0.9965186743629857,
+    "cohen_kappa": 0.9965186743629857,
+    "log_loss": 0.0071968165720148235,
+    "brier_score": 0.0038399403886498263,
+    "roc_auc_macro_ovr": 0.9999921808260755,
+    "cm_path": "outputs_xgb\\distance_total_km_confusion_matrix.png"
+  },
+  {
+    "split": "distance_total_km",
+    "accuracy": 0.9970466627288836,
+    "balanced_accuracy": 0.9967866820162588,
+    "f1_weighted": 0.9970471568694984,
+    "f1_macro": 0.9970125722537495,
+    "mcc": 0.9952650388658459,
+    "cohen_kappa": 0.9952599575887995,
+    "log_loss": 0.010611131298178861,
+    "brier_score": 0.005969673034478263,
+    "roc_auc_macro_ovr": 0.9999620964638787,
+    "cm_path": "outputs_xgb\\distance_total_km_confusion_matrix.png"
+  },
+  {
+    "split": "distance_total_km",
+    "accuracy": 0.9989669421487604,
+    "balanced_accuracy": 0.9958333333333332,
+    "f1_weighted": 0.9989642906824318,
+    "f1_macro": 0.997518207486579,
+    "mcc": 0.9981951389696114,
+    "cohen_kappa": 0.9981930589570516,
+    "log_loss": 0.00956450397975192,
+    "brier_score": 0.002431720474208157,
+    "roc_auc_macro_ovr": 0.9997688064308089,
+    "cm_path": "outputs_xgb\\distance_total_km_confusion_matrix.png"
+  }
+]
